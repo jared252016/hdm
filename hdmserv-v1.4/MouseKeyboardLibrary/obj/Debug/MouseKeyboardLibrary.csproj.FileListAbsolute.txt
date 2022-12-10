@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

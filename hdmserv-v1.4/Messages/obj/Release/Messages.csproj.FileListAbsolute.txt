@@ -1,0 +1,3 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\bin\Release\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\obj\Release\Messages.dll

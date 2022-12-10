@@ -1,0 +1,19 @@
+C:\CSHARPBIN2008\AsyncPipes\Messages\bin\Debug\Messages.dll
+C:\CSHARPBIN2008\AsyncPipes\Messages\bin\Debug\Messages.pdb
+C:\CSHARPBIN2008\AsyncPipes\Messages\bin\Debug\AsyncPipes.dll
+C:\CSHARPBIN2008\AsyncPipes\Messages\bin\Debug\AsyncPipes.pdb
+C:\CSHARPBIN2008\AsyncPipes\Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\CSHARPBIN2008\AsyncPipes\Messages\obj\Debug\Messages.dll
+C:\CSHARPBIN2008\AsyncPipes\Messages\obj\Debug\Messages.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\bin\Debug\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\bin\Debug\Messages.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\obj\Debug\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\Messages\obj\Debug\Messages.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\bin\Debug\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\bin\Debug\Messages.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\obj\Debug\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Messages\obj\Debug\Messages.pdb

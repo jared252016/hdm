@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\bin\Debug\jjw.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\bin\Debug\jjw.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\bin\Debug\jjw.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\obj\x86\Debug\jjw.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\jjw\obj\x86\Debug\jjw.pdb

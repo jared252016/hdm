@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\hdmlogon.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Release\hdmlogon.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\hdmlogon.exe.config
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\hdmlogon.exe.config
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\hdmlogon.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\MouseKeyboardLibrary.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Release\MouseKeyboardLibrary.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Release\ResolveAssemblyReference.cache
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Release\hdmlogon.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmlogon\bin\Release\hdmlogon.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmlogon\bin\Release\hdmlogon.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmlogon\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmlogon\obj\x86\Release\hdmlogon.exe

@@ -1,0 +1,24 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\hdmserv.ProjectInstaller.resources
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\bin\Debug\hdmserv.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\bin\Debug\hdmserv.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\hdmserv.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Debug\hdmserv.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\hdmserv.exe
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\hdmserv.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\hdmserv.exe
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\hdmserv.pdb
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\hdmserv.ProjectInstaller.resources
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\Messages.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Debug\hdmserv.hdm_service.resources
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\TCPServer.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\Messages.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\TCPServer.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Debug\MySql.Data.dll

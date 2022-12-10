@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\bin\Debug\hdmupdate.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\bin\Debug\hdmupdate.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\obj\x86\Debug\hdmupdate.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmupdate\obj\x86\Debug\hdmupdate.pdb

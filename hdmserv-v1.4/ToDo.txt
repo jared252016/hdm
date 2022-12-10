@@ -1,0 +1,47 @@
+v1.4 (Requries .NET 3.5)
+	. Add real time CPU / Memory usage reporting at 6 second interval.
+	. True application usage tracking.
+		- Track process start and end
+		- Track time window is in the foreground
+		- Track Mouse/Keyboard idle (2 min grace period)
+	. Store tracking data locally in a tdb file.
+		- Submit collected data after the combined file size reaches a certain point since the T drive size is limited. (500kb)
+		- Submit data on service shutdown.
+	. Add way to upload the tdb file. (HTTP Post)
+	. New TCP Commands:
+		- Resend Startup Message
+		- Request Local Data
+		- Request Local Data Size
+	. Remove hdmlogin from the project. Configure AMMT to handle auto logins. AMMT should also try to copy the username and try it as a password for the default auto login before it uses TestStudent.
+
+
+v1.4.1 (Requires .NET 3.5)
+	. Add list of all installed software to inventory, including tracking down the executable.
+	. Store the machine name locally so if the machine is renamed we know to rename it in the database.
+	. New TCP Commands:
+		- Request Local Data Hash (Merge with Size)
+	. Store tracking data locally in a tdb file.
+		- Create a hash file for each tdb file that can be used to see if the file has been tampered with, and if it has, discard and log it.
+
+Notes for version 1.4
+	. DataConnector.cs -> CheckForUpdates() - Needs to use HTTP instead of MySQL. Should read a cached text file so a MySQL query is never executed.
+	. Inventory.cs -> Send() - Needs to save to the dat file. Rename to Save()?
+	. EventMonitor.cs -> ProcessEventArrived() - Needs to save to the dat file instead of MySQL.
+	. coreXP.cs -> onShutdown() - Needs to send a UDP command to notify the server so that it doesn't have to wait to figure it out.
+
+Notes for Employee Console:
+	- Add detailed Application Reporting
+	- Add Computer Location suggestions based off usage and average CPU/Memory.
+	- Finish Map editor (.NET version).
+	- Add switches with telnet to run port lookups by mac address.
+	- Add new Google Docs/Gmail Reports
+	- Add Event Log Viewer
+
+
+Notes for Java Server:
+- Port 5626
+- Different NIC than 10.1.9.121, 10.1.9.122 address?
+- First Byte is the type. 
+	- Type 1: Startup message. Contains Type, Login State(0/1), Frozen State (0/1/2), 1, followed by the computer name, null, then the version number. 
+	- Type 3: Status Update. Contains Type, CPU, Memory, and Login State. Sent perodically so the server knows the computer is still there, in addition to "on event method."
+	

@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\AsyncPipes\AsyncPipeLib\bin\Release\AsyncPipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\AsyncPipes\AsyncPipeLib\bin\Release\AsyncPipes.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Release\AsyncPipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Release\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\bin\Release\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\obj\Release\AsyncPipes.dll

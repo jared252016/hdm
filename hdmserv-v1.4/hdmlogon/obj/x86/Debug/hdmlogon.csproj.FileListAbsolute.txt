@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\hdmlogon.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\hdmlogon.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\Messages.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\Messages.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Debug\hdmlogon.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmlogon\obj\x86\Debug\hdmlogon.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmlogon\bin\Debug\MouseKeyboardLibrary.pdb

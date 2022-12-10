@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\ndswai\bin\Release\ndswai.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\ndswai\bin\Release\ndswai.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\ndswai\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\ndswai\obj\x86\Release\ndswai.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\ndswai\obj\x86\Release\ndswai.pdb

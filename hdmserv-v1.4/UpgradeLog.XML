@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="hdmserv">
+</Property><Property Name="Solution File" Value="C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv.sln">
+</Property><Property Name="Date" Value="Sunday, September 12, 2010">
+</Property><Property Name="Time" Value="18:03:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseKeyboardLibrary.csproj" Description="Project file successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\MouseKeyboardLibrary.csproj">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\GlobalHook.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\GlobalHook.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\KeyboardHook.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\KeyboardHook.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\KeyboardSimulator.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\KeyboardSimulator.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseHook.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\MouseHook.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseSimulator.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\MouseSimulator.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseKeyboardLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseKeyboardLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MouseKeyboardLibrary" Source="MouseKeyboardLibrary\MouseKeyboardLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

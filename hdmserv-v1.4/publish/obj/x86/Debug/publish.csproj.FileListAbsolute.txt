@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\bin\Debug\publish.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\bin\Debug\publish.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Debug\publish.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Debug\publish.pdb

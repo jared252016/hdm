@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AssemblyGen\bin\Release\AssemblyGen.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AssemblyGen\bin\Release\AssemblyGen.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\AssemblyGen.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\AssemblyGen.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\AssemblyGen\bin\Release\AssemblyGen.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\AssemblyGen\bin\Release\AssemblyGen.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\ResolveAssemblyReference.cache
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\AssemblyGen.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\AssemblyGen\obj\x86\Release\AssemblyGen.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\AssemblyGen\bin\Release\AssemblyGen.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\AssemblyGen\bin\Release\AssemblyGen.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\AssemblyGen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\AssemblyGen\obj\x86\Release\AssemblyGen.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\AssemblyGen\obj\x86\Release\AssemblyGen.pdb

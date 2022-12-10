@@ -1,0 +1,54 @@
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\bin\Release\hdmserv.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\bin\Release\hdmserv.pdb
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\hdmserv.ProjectInstaller.resources
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\hdmserv.exe
+C:\Users\Daniel\AppData\Local\Temporary Projects\hdmserv\obj\x86\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\TCPServer.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.hdm_service.resources
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.ProjectInstaller.resources
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.exe.config
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\Noesis.Javascript.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.exe.config
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\hdmserv.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\Noesis.Javascript.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\bin\Release\TCPServer.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResolveAssemblyReference.cache
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.hdm_service.resources
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.ProjectInstaller.resources
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResGen.read.1.tlog
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\hdmserv\bin\Release\hdmserv.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\hdmserv\obj\x86\Release\hdmserv.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-latest\hdmserv\obj\x86\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmserv\obj\x86\Release\hdmserv.EventMonitorForm.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\hdmserv.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\hdmserv.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\Noesis.Javascript.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\TCPServer.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.hdm_service.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.ProjectInstaller.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\hdmserv.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\hdmserv.application
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.TrustInfo.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\obj\x86\Release\hdmserv.application
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\hdmserv\bin\Release\TaskScheduler.dll

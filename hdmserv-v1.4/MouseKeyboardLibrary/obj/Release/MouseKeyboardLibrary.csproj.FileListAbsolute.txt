@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\ResolveAssemblyReference.cache
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\MouseKeyboardLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb

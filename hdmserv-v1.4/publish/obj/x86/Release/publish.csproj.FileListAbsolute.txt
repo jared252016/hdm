@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\bin\Release\publish.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\bin\Release\publish.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\publish.exe
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\publish.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\publish\bin\Release\publish.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\publish\bin\Release\publish.pdb
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\ResolveAssemblyReference.cache
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\publish.exe
+X:\Backups\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\publish\obj\x86\Release\publish.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\publish\bin\Release\publish.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\publish\bin\Release\publish.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\publish\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\publish\obj\x86\Release\publish.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv-v1.4\publish\obj\x86\Release\publish.pdb

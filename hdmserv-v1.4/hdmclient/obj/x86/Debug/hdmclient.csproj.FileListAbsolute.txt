@@ -1,0 +1,13 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\hdmclient.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\hdmclient.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\Messages.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\bin\Debug\Messages.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\hdmclient.Form1.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\hdmclient.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\hdmclient.exe
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\hdm\hdmserv\hdmclient\obj\x86\Debug\hdmclient.pdb

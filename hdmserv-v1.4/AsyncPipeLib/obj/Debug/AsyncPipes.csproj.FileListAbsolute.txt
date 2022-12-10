@@ -1,0 +1,15 @@
+C:\CSHARPBIN2008\AsyncPipes\AsyncPipeLib\bin\Debug\AsyncPipes.dll
+C:\CSHARPBIN2008\AsyncPipes\AsyncPipeLib\bin\Debug\AsyncPipes.pdb
+C:\CSHARPBIN2008\AsyncPipes\AsyncPipeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\CSHARPBIN2008\AsyncPipes\AsyncPipeLib\obj\Debug\AsyncPipes.dll
+C:\CSHARPBIN2008\AsyncPipes\AsyncPipeLib\obj\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\AsyncPipeLib\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\AsyncPipeLib\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\AsyncPipes\AsyncPipeLib\obj\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\bin\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\bin\Debug\AsyncPipes.pdb
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\obj\Debug\AsyncPipes.dll
+C:\Users\Daniel\Documents\visual studio 2010\Projects\hdm\hdmserv\AsyncPipeLib\obj\Debug\AsyncPipes.pdb

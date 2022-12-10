@@ -1,0 +1,83 @@
+v1.2
+	Added:
+		1. Add usage/system tracking
+			- time spent on computer (by user and computer, can be calculated from process logs.)
+			- Current User
+			- User History (Technically stored in process logs)
+		2. Update DataConnector to v1.2: Mysql and HTTPS mode
+			- Tries to load through HTTPS, if it connects it then tries to connect to Mysql, if it fails the mode is set to http. 
+			- If http mode fails it is set in Offline mode for 2 minutes. After 2 minutes, the process repeats.
+			- HTTPS should post the data to the resolved IP. This site should be password protected using HTTP Auth, but visible to the world.
+			- HTTPS mode executes SQL on the server and returns the result. The SQL needs to be sent with a md5 hash to the authenticated HTTPS session.
+			- In HTTPS mode, the server needs to poll for commands in case TCP isn't an option. The poll will retreive only headers and occur once every 2.5 minutes.
+		3. Add check to require .NET 3.5 before version 1.3+ is installed.
+
+1.1.x
+	Updated:
+		Added file and function to all error log entries.
+		Increased Mysql Connection limit to 2.
+		Hdmupdate now only reports errors in the log file.
+		Added current version to log files
+
+	Bug Fixes:
+		Broke up some try catch statements so if one function failed the script can continue.
+		Removed max_connections_per_hour limit in mysql, which was causing the failed connections.
+		Added lock statement to all mysql queries to prevent executing two things at once.
+
+1.1.10282.15003
+	New:
+		Added Deepfreeze commands through dfc.exe.
+	Bug Fixes:
+		Fixed bug where logout wasn't  being reported because all files in Windows directory were being ignored. 
+		Added "wait for open connection" to the beginning of every mysql query. 
+		Prevented duplicate Inventory entries by making Names unique.
+
+1.1.10282.10165
+	Updated:
+		Connections on port 5630 are now allowed from 127.0.0.1 in addition to the server.
+	Bug Fixes:
+		Mysql connections are now correctly closed when the service exits. 
+		The service is now correctly limited to 1 mysql connection.
+		Added a second wait when running the inventory on slower computers. Hopefully this will fix the WMI error.
+
+v1.1.10281.28100
+	Updated:
+		Added Mcafee, Deep Freeze, and windows proccesses to the process log blacklist.
+	New:
+		Error logs are now logged to \\10.1.9.121\logs\{ComputerName}.log in addition to the event log.
+	Bug Fixes:
+		Service now reports in when shutting down
+		Service now correctly starts when an update is available.
+
+v1.0.10275.04065
+	Updated:
+		Improved Mysql Connection and created a wrapper class for the Mysql Connector
+	New:
+		Added process logging
+		Added reporting of computer state without polling by monitoring explorer.exe.
+	Known Bugs:
+		Computer status still wont set itself to 0 on shutdown. It will set itself to 1 at login screen and 2 at desktop though.
+
+
+v1.0.10265.13585
+	Updated:
+		Changed .NET Framework to version 3 from version 3.5. 
+		Removed AsyncPipes and Messages from project. They are no longer needed and are incompatible with .NET v3.0
+	Bug Fixes:
+		Delayed inventory by 1 minutes to speed up boot time and hopefully fix the bug where the message is dropped or lost.
+
+v1.0.10262.22042
+	Bug Fixes:
+		Fixed hdmserv constantly using 3-11% CPU by disabling pipes.
+
+v1.0.10262.22003
+	Bug Fixes:
+		hdmserv now correctly reports only relevant Mac Addresses.
+
+v1.0.10262.20xxx
+	New:
+		hdmupdate can now update itself if needed.
+		Versions are now generated automatically based off current date/time. (MajorV.MinorV.YearDAYOFYEAR.HHMMS)
+		The current version is now reported when doing an inventory.
+	Bug Fixes:
+		Fixed bug where ProcessorSpeed was occasionally reported as 0.
